@@ -1,2 +1,2 @@
 # SpaceOrigin
-Under development. Peace ;D (For idea go through the readme file )
+This is frontend based web-application which is ment to provide the information of the developing news regarding space reforms, startups and international organisation. And also to reflect the glory of ISRO and the growing space startups based in India.This is based on HTML,CSS,JavaScript, Bootstrap, basic React. Even it will witnesses the legacy drawn by ISRO and the astonishing scientist of ISRO and their remarkable contribution.
